@@ -39,7 +39,7 @@ with tab0:
     resulting=filtrado1.sort_values("Tamaño valor extraño",ascending=False)
 
     
-    resulting=resulting[["compiledRelease/buyer/name","compiledRelease/tender/procurementMethodDetails",
+    resulting=resulting[["compiledRelease/buyer/name","compiledRelease/planning/budget/description",
                          "Valor real","Valor Proyectado",extrange,"Similitud de valor"]]      
 
     
