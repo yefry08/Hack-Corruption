@@ -31,7 +31,7 @@ filtrado1[extrange]=(filtrado1["Valor real"]-filtrado1["Valor Proyectado"]*2)
 filtrado1["range-"]=filtrado1["Valor Proyectado"]/2
 st.title("contratación pública")
 
-tab0,tab1,tab2,tab3 = st.tabs(['selección'])
+tab0 = st.tabs(['selección'])
 with tab0:
     
   
