@@ -72,3 +72,6 @@ Stronger anti-corruption oversight in public procurement.
 Scalable model for Latin America.
 
 This solution leverages AI + open data + civic engagement to make Paraguay’s procurement system more transparent and inclusive. 🚀
+
+![image](https://github.com/user-attachments/assets/dcefd82e-4f37-4c35-bfa1-81c703529b33)
+
